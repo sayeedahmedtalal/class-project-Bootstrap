@@ -1,0 +1,78 @@
+.nav-link:hover, .nav-link:focus {
+    border-bottom: 1px solid #fff1c8;
+}
+
+.service img{
+    width: 30px;
+    margin-right: 10px;
+    
+}
+.service h5{
+    
+        font-size: 1.25rem;
+        font-weight: 400;
+    }
+
+    .productimgGroup img:hover{
+        border: 2px solid #333;
+
+    }
+
+
+    .productStar i{
+        
+        margin-right: 5px;
+        font-size: 20px;
+        color: orange;
+    }
+    
+
+
+.price{
+
+    }
+.price strong{
+    font-weight: 500;
+    font-size: xx-large;
+
+    }
+.price del{
+    font-weight: 100;
+    font-size: smaller;
+
+    }
+
+.different{}
+.differentitem{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 300px;
+    margin: auto;
+}
+.differentitem button{
+    border: 1px solid #999;
+    margin-bottom: 5px;
+    padding: 5px 25px;
+    border-radius: 3px;
+    background-color: transparent;
+}    
+.differentitem button:focus{
+    background-color: orange;
+}
+
+.differentitem img{
+
+}
+
+
+.icongroup{
+    padding: 17px;
+    margin: 0px;
+}
+.icongroup img{}
+.icongroup h3{}
+.icongroup p{
+    margin: -6px;
+    padding: 10px;
+}
